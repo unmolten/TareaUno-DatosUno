@@ -9,12 +9,12 @@ public class Entity
         }
         public float GetVida()
         {
-            Console.WriteLine($"Vida de la entidad {this.vida}");
+            Console.WriteLine($"Vida de la entidad {vida}");
             return this.vida;
         }
         public string GetNombre()
         {
-            Console.WriteLine($"Nombre de la entidad {this.nombre}");
+            Console.WriteLine($"Nombre de la entidad {nombre}");
             return this.nombre;
         }
     }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TareaUno")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de5b49956acd0727a34140bcc0888b5cb5242e49")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96b803002e97da6e074e50045d0637c0c8a89648")]
 [assembly: System.Reflection.AssemblyProductAttribute("TareaUno")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TareaUno")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

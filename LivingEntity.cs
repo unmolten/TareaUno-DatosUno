@@ -9,6 +9,12 @@ public class LivingEntity : Entity
 
         public virtual void HacerSonido()
         {
-            Console.WriteLine($"{this.GetNombre} hace un sonido.");
+            Console.WriteLine($"{GetNombre()} hace un sonido.");
+        }
+
+        public int GetVel()
+        {
+            Console.WriteLine($"La entidad tiene {vel} de velocidad");
+            return vel;
         }
     }

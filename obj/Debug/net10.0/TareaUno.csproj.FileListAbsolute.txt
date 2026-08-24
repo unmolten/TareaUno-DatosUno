@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Coding\AyEdD\TareaUno\bin\Debug\net10.0\TareaUno.exe
+C:\Users\Gabriel\Coding\AyEdD\TareaUno\bin\Debug\net10.0\TareaUno.deps.json
+C:\Users\Gabriel\Coding\AyEdD\TareaUno\bin\Debug\net10.0\TareaUno.runtimeconfig.json
+C:\Users\Gabriel\Coding\AyEdD\TareaUno\bin\Debug\net10.0\TareaUno.dll
+C:\Users\Gabriel\Coding\AyEdD\TareaUno\bin\Debug\net10.0\TareaUno.pdb
+C:\Users\Gabriel\Coding\AyEdD\TareaUno\obj\Debug\net10.0\TareaUno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Coding\AyEdD\TareaUno\obj\Debug\net10.0\TareaUno.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Coding\AyEdD\TareaUno\obj\Debug\net10.0\TareaUno.AssemblyInfo.cs
+C:\Users\Gabriel\Coding\AyEdD\TareaUno\obj\Debug\net10.0\TareaUno.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Coding\AyEdD\TareaUno\obj\Debug\net10.0\TareaUno.sourcelink.json
+C:\Users\Gabriel\Coding\AyEdD\TareaUno\obj\Debug\net10.0\TareaUno.dll
+C:\Users\Gabriel\Coding\AyEdD\TareaUno\obj\Debug\net10.0\refint\TareaUno.dll
+C:\Users\Gabriel\Coding\AyEdD\TareaUno\obj\Debug\net10.0\TareaUno.pdb
+C:\Users\Gabriel\Coding\AyEdD\TareaUno\obj\Debug\net10.0\TareaUno.genruntimeconfig.cache
+C:\Users\Gabriel\Coding\AyEdD\TareaUno\obj\Debug\net10.0\ref\TareaUno.dll
